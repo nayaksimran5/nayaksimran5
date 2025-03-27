@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 Hi there 👋 !
 
-🚀 Welcome to my GitHub! I'm Simran Nayak, a Data Analyst with a strong foundation in data-driven decision-making, predictive modeling, and machine learning. I recently earned my Master’s in Data Science and Analytics from Grand Valley State University, where I specialized in statistical analysis, predictive modeling and data visualization.
+Welcome to my GitHub! I'm Simran Nayak, a Data Analyst with a strong foundation in data-driven decision-making, predictive modeling, and machine learning. I recently earned my Master’s in Data Science and Analytics from Grand Valley State University, where I specialized in statistical analysis, predictive modeling and data visualization. With a keen eye for data patterns and trends, I work with large datasets to extract meaningful insights and develop data-driven solutions. My expertise spans retail analytics, real estate forecasting, and healthcare data, where I leverage Python, R, SQL, and visualization tools to support business strategies and drive informed decision-making.
 
-With a keen eye for data patterns and trends, I work with large datasets to extract meaningful insights and develop data-driven solutions. My expertise spans retail analytics, real estate forecasting, and healthcare data, where I leverage Python, R, SQL, and visualization tools to support business strategies and drive informed decision-making.
-
-
-### 💻 Technical Skills:
+### 💻 Technical Skills
 
 #### 🔹 Data Analysis, Mining & Machine Learning
   - Python | R | SQL | SAS | Statistical Analysis
@@ -32,13 +29,13 @@ With a keen eye for data patterns and trends, I work with large datasets to extr
   - TensorFlow | Keras | PyTorch | Reinforcement Learning
   - NLTK | Text Mining | Sentiment Analysis
 
-#### 🔹 Database & Version Control
-  - MySQL | Git | GitHub
-
 #### 🔹 Data Visualization & Business Intelligence
   - Tableau | Power BI | Matplotlib | Plotly
 
-### 📫 Connect With Me:
+#### 🔹 Database & Version Control
+  - MySQL | Git | GitHub
+
+### 📫 Connect With Me
   - 📧 Email: nayaksimran5@gmail.com
   - 🔗 LinkedIn: [Simran Nayak](https://www.linkedin.com/in/simran-nayak-51a190164/)
   - 💻 GitHub: [nayaksimran5](https://github.com/nayaksimran5?tab=repositories)
@@ -46,7 +43,7 @@ With a keen eye for data patterns and trends, I work with large datasets to extr
 ### 👩 Professional Experience:
 - Software Quality Analyst, L Soft Corporation (Sep 2024 - Present)
 
-### 🚀 Project Portfolio:
+### 🚀 Project Portfolio
 #### 1. Retail Sales Analysis & Forecasting
 Skills: Python, Power BI, Statistical Analysis, Regression
 - Analyzed product sales data and built dynamic Power BI dashboards for trend analysis, forecasting, and pricing optimization.
