@@ -41,26 +41,31 @@ Welcome to my GitHub! I'm Simran Nayak, a Data Analyst with a strong foundation 
   - 💻 GitHub: [nayaksimran5](https://github.com/nayaksimran5?tab=repositories)
 
 ### 👩 Professional Experience:
-- Software Quality Analyst, L Soft Corporation (Sep 2024 - Present)
+
+- Build Student Consultant, Data Science | The Build Fellowship (Feb 2025 – May 2025)
+
+    - Project: TweetLens – Twitter Data Analysis (Twitter API, ChatGPT, Matplotlib, Seaborn)
+
+    - Project: House Price Prediction System (Python, XGBoost, AWS SageMaker, Gradio)
+
+- Software Quality Analyst | L Soft Corporation | September 2024 – January 2025
+
+    - Project: SAP S/4 HANA Data Migration & Sales Analytics (Azure SQL, Python, Power BI, Excel)
 
 ### 🚀 Project Portfolio
 #### 1. Retail Sales Analysis & Forecasting
 Skills: Python, Power BI, Statistical Analysis, Regression
 - Analyzed product sales data and built dynamic Power BI dashboards for trend analysis, forecasting, and pricing optimization.
 
-#### 2. House Price Prediction
-Skills: Python, Machine Learning (Linear Regression, XGBoost), Feature Engineering
-- Developed predictive models to estimate house prices using advanced machine learning and statistical techniques.
-
-#### 3. Amazon Reviews Sentiment Analysis
+#### 2. Amazon Reviews Sentiment Analysis
 Skills: Python, Sentiment Analysis, Text Mining, SMOTE
 - Classified customer reviews into sentiments and visualized trends using NLP techniques and machine learning models.
 
-#### 4. Boston Crime Analysis
+#### 3. Boston Crime Analysis
 Skills: R, SQL, Tableau, Statistical Modeling
 - Analyzed crime patterns in Boston and created interactive dashboards to support law enforcement strategies and resource allocation.
 
-#### 5. Periodic Analysis of Medical Data
+#### 4. Periodic Analysis of Medical Data
 Skills: R, Machine Learning (Decision Trees, KNN, ANN), Data Preprocessing
 - Predicted virus infections based on medical data using advanced classification models for health risk assessment.
 
@@ -73,6 +78,5 @@ Skills: R, Machine Learning (Decision Trees, KNN, ANN), Data Preprocessing
 - National Institute Of Science and Technology, India
 - July 2014 – June 2018 | GPA: 3.5/4.0
 
-
 ### 📜 Certifications
-- Tableau Desktop Specialist, SAS Programming, R Programming
+- Tableau Desktop Specialist, SAS Programming, R Programming, Data Analytics, Data Mining, Microsoft Power BI Specialist
